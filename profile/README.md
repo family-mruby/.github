@@ -2,6 +2,8 @@
 
 Family mruby is an environment where you can enjoy Ruby programming on a standalone microcontroller board, without needing a PC.
 
+Document about the project is [here](https://family-mruby.github.io/).
+
 In the past, it was based on an ESP32 setup using FabGL with a VGA monitor and a PS/2 keyboard.  
 The current goal is to run on an NTSC monitor with a USB keyboard.
 
@@ -34,3 +36,4 @@ Family mruby was created to address this: an environment where you can build sma
 - **Target Environment**
   - ESP32-S3 with PSRAM
   - Designed to run on a custom board (commonly called the *Narya board*)
+  - debug target on Linux
